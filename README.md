@@ -11,16 +11,16 @@ This board adapts between different 1084S monitor standards—commonly found in 
 
 This board supports multiple configurations on a 1084S monitor (Magnavox, Philips, etc) from the 1980s and early 1990s:
 
-1. **Philips (DIN-based) to Amiga (DE9)**  
+1. **Philips (DIN-based) to traditional Amiga (DE9)**  
    Use this to connect a DIN-based 1084 monitor (typically Philips) to an Amiga that outputs via DE9.
 
-2. **Daewoo (DE9-based) to Amiga (DIN)**  
+2. **Daewoo (DE9-based) to traditional Amiga (Analog RGB DIN)**  
    Use this to connect a DE9-based 1084 monitor (typically Daewoo) to an Amiga that outputs via DIN.
 
 3. **Cross-compatibility**  
    Adapt any other computer using these connectors, including hybrid setups.
 
-4. **CGA (Tandy 1000) to Philips 1084S (DIN)**  
+4. **CGA (Tandy 1000) to Philips 1084S (Digital RGB DIN)**  
    Use this board to connect CGA-based PCs to a digital DIN-based monitor like the Philips 1084.
 
 5. **Real-time signal troubleshooting**  
