@@ -9,7 +9,7 @@ This board adapts between different 1084S monitor standards—commonly found in 
 
 ## 🌟 Key Features & Use Cases
 
-This board supports multiple configurations:
+This board supports multiple configurations on a 1084S monitor (Magnavox, Philips, etc) from the 1980s and early 1990s:
 
 1. **Philips (DIN-based) to Amiga (DE9)**  
    Use this to connect a DIN-based 1084 monitor (typically Philips) to an Amiga that outputs via DE9.
