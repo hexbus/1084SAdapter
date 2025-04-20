@@ -37,7 +37,7 @@ This board supports multiple configurations on a 1084S monitor (Magnavox, Philip
    ```
 
 7. **Signal analysis and custom monitor adapter testing**  
-   Use an oscilloscope with this board while designing new adapters or troubleshooting pinouts by experimenting with sync jumper configurations.
+   Use an oscilloscope with this board while designing new adapters or troubleshooting pinouts by experimenting with sync jumper configurations.  Monitor all sync and RGB lines, and see if you're getting the output you're expecting on all lines.  Helps with troubleshooting no-output situations, and if it's a computer fault, or a monitor fault.
 
 ---
 
