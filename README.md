@@ -14,18 +14,18 @@ This board adapts between different 1084S monitor standards—commonly found in 
 This board supports multiple configurations on a 1084S monitor (Magnavox, Philips, etc) from the 1980s and early 1990s:
 
 1. **Philips (DIN-based) to traditional Amiga (DE9)**  
-   Use this to connect a DIN-based 1084 monitor (typically Philips) to an Amiga that outputs via DE9.
+   Use this to connect a DIN-based 1084 monitor (typically Philips) to an Amiga that outputs via DE9 monitor cable.
 
 2. **Daewoo (DE9-based) to traditional Amiga (Analog RGB DIN)**  
-   Use this to connect a DE9-based 1084 monitor (typically Daewoo) to an Amiga that outputs via DIN.
+   Use this to connect a DE9-based 1084 monitor (typically Daewoo) to an Amiga that outputs via DIN monitor cable.
 
 3. **Cross-compatibility**  
-   Adapt any other computer using these connectors, including hybrid setups.
+   Adapt any other computer using these connectors to a 15kHz monitor, including hybrid setups.
+   (Like a Myarc Geneve 9640 to a 1084S-D1/D2, or a MSX to a 1084S-D1/D2 that had a DIN connection.)
 
-4. **CGA (Tandy 1000) to Philips 1084S (Digital RGB DIN)**  
-   Use this board to connect DE9 CGA-based PCs to a digital DIN-based monitor like the Philips 1084.
-
-5. **Real-time signal troubleshooting**  
+5. **CGA (Tandy 1000) to Philips 1084S (Digital RGB DIN)**  
+   Use this board to easily connect DE9 CGA-based PCs to a digital DIN-based monitor like the Philips 1084.  
+6. **Real-time signal troubleshooting**  
    Connect two boards back-to-back to test sync and RGB lines without format conversion:  
    ```
    Monitor (Analog RGB input) 
@@ -36,7 +36,7 @@ This board supports multiple configurations on a 1084S monitor (Magnavox, Philip
      <-> DIN6 male (Amiga cable/Amiga)
    ```
 
-6. **Signal analysis and custom monitor adapter testing**  
+7. **Signal analysis and custom monitor adapter testing**  
    Use an oscilloscope with this board while designing new adapters or troubleshooting pinouts by experimenting with sync jumper configurations.
 
 ---
