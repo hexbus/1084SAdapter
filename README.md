@@ -5,6 +5,8 @@ Universal 1084S Monitor Adapter – DIN ↔ DE9 RGB Adapter/Monitor for Amiga, T
 
 This board adapts between different 1084S monitor standards—commonly found in Philips and Daewoo variants—and allows flexible signal routing for Amiga, CGA-based PCs, and other retro systems.
 
+![1084s-adapter](https://github.com/user-attachments/assets/3028c469-720b-4f6b-a27a-c6dac1cafd4f)
+
 ---
 
 ## 🌟 Key Features & Use Cases
