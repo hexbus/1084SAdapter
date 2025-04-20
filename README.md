@@ -23,7 +23,7 @@ This board supports multiple configurations on a 1084S monitor (Magnavox, Philip
    Adapt any other computer using these connectors, including hybrid setups.
 
 4. **CGA (Tandy 1000) to Philips 1084S (Digital RGB DIN)**  
-   Use this board to connect CGA-based PCs to a digital DIN-based monitor like the Philips 1084.
+   Use this board to connect DE9 CGA-based PCs to a digital DIN-based monitor like the Philips 1084.
 
 5. **Real-time signal troubleshooting**  
    Connect two boards back-to-back to test sync and RGB lines without format conversion:  
