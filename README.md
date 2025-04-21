@@ -153,6 +153,7 @@ This connector supports **both analog and digital RGB**, combining signals from 
 
 Pinout diagrams (DIN-6, DIN-8, and DE9) coming soon!
 
-[View Interactive Diagrams Here (Link Placeholder)](https://your-diagram-link-here)
+![Commodore_1084_pinout_DIN-rotated_large](https://github.com/user-attachments/assets/c56c0dd3-56f7-4498-9b64-9e5597ad5cf3)
+![image](https://github.com/user-attachments/assets/7251c4e2-ad75-446e-bb35-61572c074385)
 
 ---
