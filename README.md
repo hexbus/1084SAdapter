@@ -61,14 +61,15 @@ Out of the box, the board routes Horizontal and Vertical Sync directly:
 
 Use these jumpers to customize how sync signals are routed:
 
-| Jumper | Routes From (J1/J2) | To (J3 - DE9)      | Notes               |
-|--------|---------------------|---------------------|---------------------|
-| **J4** | HSYNC               | HSYNC              | **Default ON** (1–2) |
-| **J5** | HSYNC               | VSYNC              | Optional             |
-| **J6** | HSYNC               | CSYNC              | Optional             |
-| **J7** | VSYNC               | VSYNC              | **Default ON** (1–2) |
-| **J8** | VSYNC               | HSYNC              | Optional             |
-| **J9** | VSYNC               | CSYNC              | Optional             |
+
+| Jumper | Signal Routed From (DIN) | To (DE9) Pin     | Enabled When | Notes               |
+|--------|---------------------------|------------------|--------------|---------------------|
+| **J4** | HSYNC                     | HSYNC            | 1–2          | **Default ON**      |
+| **J5** | HSYNC                     | VSYNC            | 1–2          | Optional            |
+| **J6** | HSYNC                     | CSYNC            | 1–2          | Optional            |
+| **J7** | VSYNC                     | VSYNC            | 1–2          | **Default ON**      |
+| **J8** | VSYNC                     | HSYNC            | 1–2          | Optional            |
+| **J9** | VSYNC                     | CSYNC            | 1–2          | Optional            |
 
 **Note:** Only enable the jumpers that suit your configuration. Never enable conflicting signals unless you're absolutely sure.
 
